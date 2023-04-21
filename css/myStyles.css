@@ -1,0 +1,47 @@
+/*This is where you can override their preset styles*/
+ul{
+    font-size: 12px;
+}
+
+ol{
+    font-size: 20px;
+}
+
+.albums{
+    font-family: cursive;
+}
+
+.caption{
+    font-size: smaller;
+    font-weight: bolder;
+    color: darkgray;
+    font-family:monospace;
+}
+
+.songs{
+    font-size:x-large;
+    color: brown;
+    text-decoration:dotted;
+    background-color: blanchedalmond;
+    border-style: groove;
+    border-color: brown;
+    padding-bottom: 5px;
+}
+
+.footer{
+    font-size: small;
+    color: bisque;
+    background-color:silver;
+}
+
+a{
+    text-decoration: none;
+}
+
+.top{
+    text-align: center;
+    background-color: lightslategray;
+    color: antiquewhite;
+    text-decoration-style:double;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
